@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Sales-App-with-Shinny.Rproj
+.DS_Store
+sales_data_sample.csv
+app.R
